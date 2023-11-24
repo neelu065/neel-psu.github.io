@@ -1,4 +1,4 @@
-# thomaswiemann.github.io
-My personal website (unfinished and in progress).
+# neel-psu.github.io
+My personal website (yet to complete.
 
-Visit here: [thomaswiemann.com](https://thomaswiemann.com/)
+Theme derived from *@thomaswiemann*.
