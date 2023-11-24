@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Syllabus</title>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Thomas Wiemann">
+    
+      <meta name="description" content="Syllabus for Econ 21020 (Econometrics).">
+    
+    
+      <meta name="keywords" content="Teaching, Econometrics"/>
+    
+
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/assets/images/favicon.ico">
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/my-bootstrap.css" >
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+
+    <!-- MathJax -->
+    
+
+    <!-- Copyright (c) 2000-2023 etracker GmbH. All rights reserved. -->
+    <!-- This material may not be reproduced, displayed, modified or distributed -->
+    <!-- without the express prior written permission of the copyright holder. -->
+    <!-- etracker tracklet 5.0 -->
+    <script type="text/javascript">
+      // var et_pagename = "";
+      // var et_areas = "";
+      // var et_tval = 0;
+      // var et_tsale = 0;
+      // var et_tonr = "";
+      // var et_basket = "";
+      </script>
+      <script id="_etLoader" type="text/javascript" charset="UTF-8" data-block-cookies="true" data-secure-code="6ggnmg" src="//code.etracker.com/code/e.js" async></script>
+      <!-- etracker tracklet 5.0 end -->
+  
+  
+
+  </head>
+  <body>
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand">Thomas Wiemann</a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-left">
+          
+          
+          
+
+  
+    
+      <li><a href="/">Home</a></li>
+    
+  
+
+  
+    
+      <li><a href="/research">Research</a></li>
+    
+  
+
+  
+    
+      <li><a href="/computing">Computing</a></li>
+    
+  
+
+  
+    
+      <li><a href="/teaching">Teaching</a></li>
+    
+  
+
+
+
+
+          <li><a href="/assets/pdfs/wiemann_cv_2023_06_23.pdf">CV</a></li>
+        </ul>
+        <ul class="nav navbar-nav" style="border-top: 1px solid black">
+          <li><a style="font-size: 22px; color:#f8f8f8">Econ 21020:</a></li>
+          
+          
+          
+
+  
+    
+      <li class="active"><a href="/econ21020" class="active">Syllabus</a></li>
+    
+  
+
+  
+    
+      <li><a href="/econ21020/schedule">Schedule</a></li>
+    
+  
+
+  
+    
+      <li><a href="/econ21020/material">Course Material</a></li>
+    
+  
+
+
+
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  
+
+  <div class="main" style="padding-top: 5rem">
+        <h1 id="econometrics--econ-21020">Econometrics – Econ 21020</h1>
+
+<p>This website contains course material for Econ 21020 taught at the University of Chicago in Spring 2022.</p>
+
+<h2 id="course-description">Course description</h2>
+<p>The course provides students with a rigorous introduction to econometrics. Throughout, a focus is placed on the three distinct tasks arising in the analysis of causal questions (see Heckman and Vytlacil, 2007): 1) Definition of economically motivated causal parameters, 2) identification based on restrictions on the joint distribution of observed and unobserved variables, and 3) estimation and inference using a random sample.</p>
+
+<p>Upon successful completion, students are equipped to distinguish between descriptive and causal parameters, leverage probability theory for formal identification arguments, discuss the underlying identifying assumptions, construct sample analogue and linear regression-based estimators, and use asymptotic theory to approximate the estimators’ sampling distribution. Students are further able to implement the estimators in R to draw insights from real data.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>The prerequisites for this course are [(ECON 20100 or 20110) &amp; (ECON 21010)], or [(STAT 23400, 24400 or 24410) &amp; (MATH 19620, 20000, 20250, or 18500 or STAT 24300)]. In particular, we will make use of calculus, basic probability and statistics, and matrix algebra.</p>
+
+<h2 id="course-websites">Course websites</h2>
+<p>Lecture material and problem sets will be shared via <a href="https://canvas.uchicago.edu/">Canvas</a>. Solutions to programming exercises and supplementary code will be shared via GitHub, a free hosting website for the widely used version control system Git. We will also use Slack to facilitate discussions on lecture material, problem sets, and coding questions. Students should sign up via the below links.</p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://join.slack.com/t/econ21020workspace/shared_invite/zt-158t0sw3k-duZzVGvYJNhRlm38XQpm8A" class="btn btn-primary">Slack Group</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/thomaswiemann/econ-21020" class="btn btn-primary"><img src="/assets/images/GitHub-Mark-32px.png" alt="GitHub Icon" style="height:19px" /> Github</a></p>
+
+<h2 id="software">Software:</h2>
+<p>This course requires using R, a high-level statistical programming language. Students should install <a href="https://mirror.las.iastate.edu/CRAN/">R</a> along with a suitable IDE (e.g., <a href="https://www.rstudio.com/products/rstudio/download/#download">R Studio</a>). Albeit not mandatory, it is highly encouraged to use the version control system Git when working on the programming exercises. The <a href="https://desktop.github.com/">GitHub desktop app</a> provides an accessible interface for getting started with Git. An introduction to statistical programming with R and Git is provided in the first TA session.</p>
+
+<h2 id="textbook">Textbook</h2>
+<p>There is no required textbook as the course material is meant to be self-contained. Students interested in supplementary readings may want to consider “Introduction to Econometrics” by James Stock and Mark Watson.</p>
+
+<h2 id="grading">Grading</h2>
+<p>There will be six problem sets, a midterm, and a final exam. The course score is a weighted average of the three calculated as follows:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Component</th>
+      <th style="text-align: center">Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Problem sets</td>
+      <td style="text-align: center">30%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Midterm</td>
+      <td style="text-align: center">20%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Final exam</td>
+      <td style="text-align: center">50%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img width="70" /></td>
+      <td style="text-align: center"><img width="70" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>All problem set and exam scores are final except for correcting obvious grading mistakes. For example, points are added up incorrectly. Students should bring these to the attention of the teaching assistant within three working days. Note that partial credit is systematically awarded. Therefore, partial credit cannot be revised for one student without implicitly penalizing his or her classmates.</p>
+
+<p>Letter grades are determined on a curve at the end of the quarter.</p>
+
+<h2 id="problem-sets">Problem Sets</h2>
+<p>Problem sets need to be submitted on Canvas prior to their deadline (see the <a href="https://thomaswiemann.com/econ21020/schedule">course schedule</a>). Late problem sets will not be accepted. The lowest problem set grade will be dropped when calculating final course scores.</p>
+
+<p>Students are encouraged to work together on problem sets, but each student must submit his or her own set of solutions. Write-ups must include the names of the other students with whom they worked.</p>
+
+<p>Students should consider typesetting their problem sets using <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>. <a href="https://www.overleaf.com/">Overleaf</a> is an excellent online editor for getting started. A simple <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> template for problem sets can be downloaded <a href="https://thomaswiemann.com/assets/teaching/other/pset_template.zip">here</a>.</p>
+
+<p>The teaching assistant and I will gladly answer questions on problem sets.</p>
+
+<h2 id="extra-credit-opportunities">Extra credit opportunities</h2>
+<p>There are two – entirely optional – extra credit opportunities. They are meant as encouragement for good coding practice and to deepen students’ understanding of the statistical methods discussed in class.</p>
+<ol>
+  <li>Students who track their code using Git and upload their solutions to the programming exercises to a public GitHub repository will receive a 5 percentage point bonus on the corresponding problem set. To receive the bonus, the link to the GitHub repository must be included in the problem set submission.</li>
+  <li>Problem sets will include optional programming exercises that ask students to implement statistical estimators using low-level commands. For example, students may implement linear regression using arithmetic operations rather than the <code class="language-plaintext highlighter-rouge">lm</code>-command in R. Successful implementations are rewarded with a bonus of up to 20 percentage points on the corresponding problem set.</li>
+</ol>
+
+<p>To ensure that extra credit awarded to one student does not negatively impact his or her peers, extra credit is awarded after determining thresholds for the letter grades.</p>
+
+<h2 id="academic-integrity">Academic integrity</h2>
+<p>Cheating on any assignment in any way will be dealt with severely. In particular, anyone caught cheating on any exam will fail the course and be reported to the Dean’s office for further disciplinary action.</p>
+
+  </div>
+
+  <hr>
+  <ul class="flex-footer">
+  <li class="flex-footer-item" style="text-align: left; width: 160px">
+    <p><img src="/assets/images/GitHub-Mark-32px.png" alt="GitHub Icon" style="width:20px"> <a href="https://github.com/thomaswiemann">@thomaswiemann</a> </p>
+    <p><img src="/assets/images/2021 Twitter logo - blue.png" alt="Twitter Icon" style="width:20px"> <a href="https://twitter.com/econwiemann">@econwiemann</a> </p>
+    <p><img src="/assets/images/LI-In-Bug.png" alt="LinkedIn Icon" style="width:20px"> <a href="https://www.linkedin.com/in/thomas-wiemann">@thomaswiemann</a> </p>
+  </li>
+  <li class="flex-footer-item" style="width: 500px"><img src="/assets/images/uchicago-logo.jpg" alt="University of Chicago Seal" style="width:350px"></li>
+  <li class="flex-footer-item">
+    <p>Written in <a href="https://code.visualstudio.com/">VS Code</a>. Built with <a href="https://jekyllrb.com/">Jekyll</a>. Hosted on <a href="https://github.com/thomaswiemann/thomaswiemann.github.io">GitHub</a>.</p>
+    <p>&copy; 2023 Thomas Wiemann</p>
+  </li>
+  </ul>
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
+  <script src="/assets/js/bootstrap.min.js"></script>
+  </body>
+</html>

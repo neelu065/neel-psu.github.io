@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Thomas Wiemann">
+    {% if page.summary %}
+      <meta name="description" content="{{ page.summary | escape }}">
+    {% endif %}
+    {%if page.tags %}
+      <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+    {%endif %}
+
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/assets/images/favicon.ico">
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/my-bootstrap.css" >
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+
+    <!-- MathJax -->
+    {% if page.usemathjax %}
+    <script src="/assets/js/load-mathjax.js" async></script>
+    {% endif %}
+
+    <!-- Copyright (c) 2000-2023 etracker GmbH. All rights reserved. -->
+    <!-- This material may not be reproduced, displayed, modified or distributed -->
+    <!-- without the express prior written permission of the copyright holder. -->
+    <!-- etracker tracklet 5.0 -->
+    <script type="text/javascript">
+      // var et_pagename = "";
+      // var et_areas = "";
+      // var et_tval = 0;
+      // var et_tsale = 0;
+      // var et_tonr = "";
+      // var et_basket = "";
+      </script>
+      <script id="_etLoader" type="text/javascript" charset="UTF-8" data-block-cookies="true" data-secure-code="6ggnmg" src="//code.etracker.com/code/e.js" async></script>
+      <!-- etracker tracklet 5.0 end -->
+  
+  </head>
+  <body>
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand">Thomas Wiemann</a>
+      </div>
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          {% assign pages_list = site.pages | sort:"order" %}
+          {% assign group = 'navigation' %}
+          {% include pages_list %}
+          <li><a href="/assets/pdfs/wiemann_cv_2023_06_23.pdf">CV</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="main">
+        {{ content }}
+
+      <em style="font-size:medium">That's a wrap! If you've found
+        this post helpful or have any comments or suggestions, please don't hesitate
+        to reach out. My email is wiemann@uchicago.edu. I'd be happy about any feedback.<em>
+  </div>
+
+  <hr>
+  <ul class="flex-footer">
+  <li class="flex-footer-item" style="text-align: left; width: 160px">
+    <p><img src="/assets/images/GitHub-Mark-32px.png" alt="GitHub Icon" style="width:20px"> <a href="https://github.com/thomaswiemann">@thomaswiemann</a> </p>
+    <p><img src="/assets/images/2021 Twitter logo - blue.png" alt="Twitter Icon" style="width:20px"> <a href="https://twitter.com/econwiemann">@econwiemann</a> </p>
+    <p><img src="/assets/images/LI-In-Bug.png" alt="LinkedIn Icon" style="width:20px"> <a href="https://www.linkedin.com/in/thomas-wiemann">@thomaswiemann</a> </p>
+  </li>
+  <li class="flex-footer-item" style="width: 500px"><img src="/assets/images/uchicago-logo.jpg" alt="University of Chicago Seal" style="width:350px"></li>
+  <li class="flex-footer-item">
+    <p>Written in <a href="https://code.visualstudio.com/">VS Code</a>. Built with <a href="https://jekyllrb.com/">Jekyll</a>. Hosted on <a href="https://github.com/thomaswiemann/thomaswiemann.github.io">GitHub</a>.</p>
+    <p>&copy; 2023 Thomas Wiemann</p>
+  </li>
+  </ul>
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
+  <script src="/assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
