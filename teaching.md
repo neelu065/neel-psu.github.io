@@ -8,8 +8,8 @@ tags: [Teaching, Econometrics, Economics, Coding, LaTeX]
 ---
 
 # Teaching
-
-## Courses
+Yet to build.
+<!-- ## Courses
 
 **Econometrics &ndash; Econ 21020 (Spring 2022)**
 - Syllabus ([link](econ21020))
@@ -38,4 +38,4 @@ Taught by Prof. [Max Tabord-Meehan](https://sites.google.com/site/mtabordmeehan)
 
 **<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> Templates**
 - Problem set template ([link](/assets/teaching/other/pset_template.zip))
-- UChicago presentation template ([link](/assets/teaching/other/uchicago_beamer_template.zip))
+- UChicago presentation template ([link](/assets/teaching/other/uchicago_beamer_template.zip)) -->

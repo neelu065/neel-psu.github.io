@@ -9,8 +9,8 @@ tags: [Computation, Blog, Software, Tutorial, Coding]
 ---
 
 # Computing
-
-## Software
+Yet to build.
+<!-- ## Software
 [``ddml``: Double/Debiased Machine Learning in Stata](https://statalasso.github.io/docs/ddml/)
 
 [``ddml``: Double/Debiased Machine Learning in R](https://thomaswiemann.com/ddml/) [![CRAN
@@ -30,4 +30,4 @@ We meet on a bi-weekly basis. Please reach out if you're interested in participa
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->

@@ -10,7 +10,8 @@ tags: [Research, Working Paper]
 
 # Research
 
-## Working Papers
+Yet to build.
+<!-- ## Working Papers
 
 **Demand Estimation with Finitely Many Consumers** ([Draft](/assets/pdfs/ezmpec_lw.pdf); [Slides](/assets/pdfs/ezmpec_lw_slides.pdf))\
 with [Jonas Lieber](https://jonaslieber.com/index.html). 
@@ -37,4 +38,4 @@ _Abstract._ We introduce the package ddml for Double/Debiased Machine Learning (
 **A Practitioner’s Guide to Double Machine Learning** \
 with [Achim Ahrens](https://achimahrens.de/), [Christian B Hansen](https://voices.uchicago.edu/christianhansen/), [Mark E Schaffer](https://ideas.repec.org/e/psc51.html). 
 
-_Abstract._ This paper discusses pairing double/debiased machine learning (DDML) with stacking, a weighted average of several candidate machine learners. The combination of the two methods leads to improved performance and addresses some of the recent concerns raised about the use of causal machine learning in economic applications. Additionally, we introduce DDML with short-stacking, which exploits the cross-fitting step of DDML to substantially reduce the computational burden of stacking. The central motivation for pairing DDML and stacking approaches is that, in practice, it is rarely obvious which machine learner performs best for a specific application, and we show that stacking can successfully reduce the risk of misspecification. Based on a diverse set of applications and calibrated simulation studies, we gauge the finite sample performance of DDML combined with stacking approaches on real data in various commonly encountered settings. We show that DDML with stacking is more robust than other approaches when the underlying data-generating process is unknown and develop practically-relevant recommendations for researchers.
+_Abstract._ This paper discusses pairing double/debiased machine learning (DDML) with stacking, a weighted average of several candidate machine learners. The combination of the two methods leads to improved performance and addresses some of the recent concerns raised about the use of causal machine learning in economic applications. Additionally, we introduce DDML with short-stacking, which exploits the cross-fitting step of DDML to substantially reduce the computational burden of stacking. The central motivation for pairing DDML and stacking approaches is that, in practice, it is rarely obvious which machine learner performs best for a specific application, and we show that stacking can successfully reduce the risk of misspecification. Based on a diverse set of applications and calibrated simulation studies, we gauge the finite sample performance of DDML combined with stacking approaches on real data in various commonly encountered settings. We show that DDML with stacking is more robust than other approaches when the underlying data-generating process is unknown and develop practically-relevant recommendations for researchers. -->
