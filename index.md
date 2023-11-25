@@ -8,7 +8,7 @@ summary: Hey! I'm Neelappagouda Hiregoudar, PhD student in College of Informatio
 
 # Welcome!
 
-### I'm Neelappagouda Hiregoudar, PhD student in College of Information Sciences and technology (IST) at Penn State.
+### I'm Neelappagouda Hiregoudar, PhD student at Penn State.
 
 <img src="/assets/images/neel_headshot.png" class="wrapped rounded">
 
