@@ -25,7 +25,7 @@ constraints with reasonably higher residual value. A full‑fledged optimization
 via SLURM. The python code related to this project can be assessed using GitHub link, Thesis‑codes.
 The outcome of the project is as mentioned below.
 
-• A total of four optima are obtained with objective function varying < 8% and a residual value of 10−12 .
+• A total of four optima are obtained with objective function varying < 8% and a residual value of 10−12.  
 
 • Fine‑tuning of CFD solution is necessary to analyse the work properly.
 
