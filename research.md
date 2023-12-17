@@ -36,7 +36,7 @@ _Tools used_: Pointwise (meshing software), Paraview (Post‑processing software
 
 ## Assisted Projects:
 
-**Aircraft Climb Optimization.**
+**Aircraft Climb Optimization.**  
 _Advisor: Dr. DEVENDRA PRAKASH GHATE_
 
 The project focuses on the climb trajectory optimization for aircraft. By finding a feasible and optimal path, it can be proved that
@@ -47,7 +47,7 @@ maximum angle of attack, to name a few.
 • My role in this project is to make bachelor student understand the Differential Evolution (DE) algorithm and help him to implement the gradient‑free algorithm.
 
 
-**Variable‑Thrust Optimization of Ascent Trajectory of a Two‑Stage Launch Vehicle.**
+**Variable‑Thrust Optimization of Ascent Trajectory of a Two‑Stage Launch Vehicle.**  
 _Advisor: Dr. ARAVIND VAIDYANATHAN_
 
 The objective of this project is to optimize the thrust of a two‑stage rocket based on the pitch rate defined at several points along the trajectory. The problem is defined using 41 variables (Dimension) containing kick rate, and pitch rates defined at equal intervals along the trajectory. Furthermore, with the 200 initial population, the gradient‑free algorithm (DE) is used to optimize the thrust. The
@@ -57,7 +57,7 @@ constraints were that the flight path angle needs to be zero at the orbital heig
 
 ## Bachelor's Thesis:
 
-**Experimental Investigation On Conventional Heat pipes Using Various Working Fluid.**
+**Experimental Investigation On Conventional Heat pipes Using Various Working Fluid.**  
 _Advisor: Dr. EZHIL VANNAN S_
 
 The objective of this project is to compare the performance of Heat pipe when subjected to various working fluids. Here, the Aluminium
