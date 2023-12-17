@@ -12,4 +12,4 @@ summary: Hey! I'm Neelappagouda Hiregoudar, PhD student in College of Informatio
 
 <img src="/assets/images/neel_headshot.png" class="wrapped rounded">
 
-Yet to complete.
+Welcome to my webpage!
