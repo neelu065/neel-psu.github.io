@@ -29,7 +29,7 @@ The outcome of the project is as mentioned below.
 • Fine‑tuning of CFD solution is necessary to analyse the work properly.  
 
 Due to COVID‑19 pandemic, the computational facility is turned off, which hindered further expansion of the project to the viscous flow
-field. The entire thesis can be accessed using the GitHub link as mentioned, Thesis‑file.pdf.
+field. The entire thesis can be accessed using the GitHub link as mentioned, [Thesis‑file.pdf](/assets/pdfs/multimodal_project.pdf).
 
 _Tools used_: Pointwise (meshing software), Paraview (Post‑processing software), SU2 (CFD solver), Linux shell script, Python (Constructing framework), SLURM (Submitting jobs to HPC cluster).
 
