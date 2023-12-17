@@ -22,12 +22,11 @@ points is set‑up over the NACA0012 wing, which resulted in 125 Dimensional opt
 Component Analysis (PCA), the problem dimension is reduced to 10 based on its percentage of random energy ( 𝜆2 ). A glyph script
 creates the wing tip followed by the volume mesh to all perturbed wings, and the SU2 solver will evaluate for Coefficient of lift (Cl) and Coefficient of drag (Cd). The entire optimization problem carried out in subsonic, inviscid condition (M = 0.4) subjected to several
 constraints with reasonably higher residual value. A full‑fledged optimization code written in Python and submitted to the HPC cluster
-via SLURM. The python code related to this project can be assessed using GitHub link, Thesis‑codes.
-The outcome of the project is as mentioned below.
+via SLURM.  
 
+The outcome of the project is as mentioned below.  
 • A total of four optima are obtained with objective function varying < 8% and a residual value of 10−12.  
-
-• Fine‑tuning of CFD solution is necessary to analyse the work properly.
+• Fine‑tuning of CFD solution is necessary to analyse the work properly.  
 
 Due to COVID‑19 pandemic, the computational facility is turned off, which hindered further expansion of the project to the viscous flow
 field. The entire thesis can be accessed using the GitHub link as mentioned, Thesis‑file.pdf .
