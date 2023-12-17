@@ -50,9 +50,7 @@ maximum angle of attack, to name a few.
 **Variable‑Thrust Optimization of Ascent Trajectory of a Two‑Stage Launch Vehicle.**
 _Advisor: Dr. ARAVIND VAIDYANATHAN_
 
-The objective of this project is to optimize the thrust of a two‑stage rocket based on the pitch rate defined at several points along the
-trajectory. The problem is defined using 41 variables (Dimension) containing kick rate, and pitch rates defined at equal intervals along
-the trajectory. Furthermore, with the 200 initial population, the gradient‑free algorithm (DE) is used to optimize the thrust. The
+The objective of this project is to optimize the thrust of a two‑stage rocket based on the pitch rate defined at several points along the trajectory. The problem is defined using 41 variables (Dimension) containing kick rate, and pitch rates defined at equal intervals along the trajectory. Furthermore, with the 200 initial population, the gradient‑free algorithm (DE) is used to optimize the thrust. The
 constraints were that the flight path angle needs to be zero at the orbital height. In this problem, the feasibility rules as proposed by Deb and Saha, for constraints satisfaction is implemented.
 
 • My participation in this project was to set up the problem objective and check for constraint satisfaction in the most efficient way. Python programming is used to set up the entire problem.
@@ -68,6 +66,5 @@ distilled water, acetone, Cupric oxide nanofluid are used. Results are compared 
 using a heat source (90 Watts). A comparative study is carried out between straight Heat pipe and the bend Heat pipes.
 The outcomes are as follows:
 
-• The rate of heat dissipation depends on working fluids and is maximum for nanofluids.
-
+• The rate of heat dissipation depends on working fluids and is maximum for nanofluids.  
 • The bending of Heat pipe reduces the heat transfer rate due to the increase in the vapour transport resistance.           
