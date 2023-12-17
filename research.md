@@ -13,7 +13,6 @@ tags: [Research, Working Paper]
 ## Master's Thesis:
 
 **Multimodal Shape Optimization Of NACA0012 Wing With Differential Evolution Based Parallel Niching Algorithm and Reduced‑Order Modeling Technique.**  
-
 _Advisor: Dr. DEVENDRA PRAKASH GHATE_
 
 This thesis involves identifying multimodality for the NACA0012 wing (ADODG case‑6 problem). The Differential Evolution (DE) based
