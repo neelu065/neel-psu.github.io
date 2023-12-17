@@ -63,8 +63,7 @@ _Advisor: Dr. EZHIL VANNAN S_
 The objective of this project is to compare the performance of Heat pipe when subjected to various working fluids. Here, the Aluminium
 and Copper pipes of specified dimension are fabricated into Heat pipes with mesh inserted inside the pipes. Working fluids like double
 distilled water, acetone, Cupric oxide nanofluid are used. Results are compared by subjecting the Heat pipes to temperature gradient
-using a heat source (90 Watts). A comparative study is carried out between straight Heat pipe and the bend Heat pipes.
-The outcomes are as follows:
-
+using a heat source (90 Watts). A comparative study is carried out between straight Heat pipe and the bend Heat pipes.  
+The outcomes are as follows:  
 • The rate of heat dissipation depends on working fluids and is maximum for nanofluids.  
 • The bending of Heat pipe reduces the heat transfer rate due to the increase in the vapour transport resistance.           
