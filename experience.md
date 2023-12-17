@@ -7,7 +7,7 @@ summary: Past experience listed.
 tags: [IITB, IITKGP, Mahindra, Penn State]
 ---
 
-## Current work
+# Current work
 
 ## Penn State (Aug, 2023 - Present)
 _Graduate student_
