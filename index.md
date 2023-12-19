@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Neel-PSU
 group: "navigation"
 order: 1
 summary: Hey! I'm Neelappagouda Hiregoudar, PhD student in College of Information Sciences and technology (IST) at Penn State. Welcome to my personal website! 
