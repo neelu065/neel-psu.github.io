@@ -12,9 +12,12 @@ tags: [IITB, IITKGP, Mahindra, Penn State]
 ## Penn State (Aug, 2023 - Present)
 _Graduate student_
 
+Busy with course work.
+<!--
 • _Role_: Use the Graph Neural Network (GNN) to predict the turbulent coefficient of a flow and use a finite element solver (Fenics) to evaluate the ground truth.  
 
 • _Sponsoring Agency_: Argonne National Lab (ANL)
+-->
 
 # Previous experience
 
