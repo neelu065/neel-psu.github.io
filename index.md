@@ -20,6 +20,6 @@ Having gained a solid foundation in AI and programming, I'm now eager to explore
 
 If you have any positions available or know of opportunities that match my interests, I would be grateful if you could connect with me at **neel[at]psu.edu**.
 
-Feel free to reach out if our interests align — I'm confident we'll discover something fascinating to discuss! You can find my contact details in my [CV](assets/pdfs/neel_CV). Looking forward to potential conversations!
+Feel free to reach out if our interests align — I'm confident we'll discover something fascinating to discuss! You can find my contact details in my [CV](assets/pdfs/neel_CV.pdf). Looking forward to potential conversations!
 
 Wishing you a Merry Christmas!
