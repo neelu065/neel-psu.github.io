@@ -1,4 +1,4 @@
 # neel-psu.github.io
-My personal website (yet to complete).
+My personal website.
 
 Theme derived from *@thomaswiemann*.
