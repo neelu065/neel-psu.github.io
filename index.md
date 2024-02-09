@@ -10,7 +10,7 @@ summary: Hey! I'm Neelappagouda Hiregoudar, PhD student in College of Informatio
 
 ### I'm Neelappagouda Hiregoudar, PhD student at Pennsylvania State University.
 
-<img src="/assets/images/neel_headshot.png" class="wrapped rounded">
+<img src="/assets/images/neel_headshot.jpg" class="wrapped rounded">
 
 Greetings!  
 
