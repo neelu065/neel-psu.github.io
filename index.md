@@ -11,13 +11,13 @@ summary: Hey! I'm Neelappagouda Hiregoudar, PhD student in College of Informatio
 ## (Error 419 (page expired): Website Under development ...)
 ### I'm Neelappagouda Hiregoudar, PhD student at Pennsylvania State University.
 
-<img src="/assets/images/neel_headshot.png" class="wrapped rounded">
+<img src="/assets/images/neel_headshot.jpg" class="wrapped rounded">
 
 Greetings!  
 
 I'm currently in the first year of my PhD journey at Penn State, focusing on completing mandatory coursework. My background is in mechanical and aerospace engineering, and I've spent nearly three years working on projects that applied AI to fluid dynamics problems.
 
-Having gained a solid foundation in AI and programming, I'm now eager to explore research projects that are practical and involve real-world problem-solving disciplines. I'm particularly interested in emerging areas such as **Computational design, Smart city building, CFD, Manufacturing/Industry 4.0, Intelligent Vehicles, Robotics, data-driven model** and related fields, as they align with my future goals.
+Having gained a solid foundation in AI and programming, I'm now eager to explore research projects that are practical and involve real-world problem-solving disciplines. I'm particularly interested in emerging areas such as **Physics-based modelling (PINNs), Computational design, CFD, Manufacturing/Industry 4.0, Robotics** and related fields, as they align with my future goals.
 
 If you have any positions available or know of opportunities that match my interests, I would be grateful if you could connect with me at **[neelu065]@gmail.com**.
 
